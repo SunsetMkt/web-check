@@ -47,7 +47,7 @@
     "dotenv": "^16.3.1",
     "express-rate-limit": "^7.2.0",
     "flatted": "^3.2.7",
-    "follow-redirects": "^1.15.2",
+    "follow-redirects": "^1.15.6",
     "got": "^13.0.0",
     "jest-styled-components": "^7.1.1",
     "netlify-cli": "^15.9.1",
